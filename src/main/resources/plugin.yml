@@ -1,0 +1,10 @@
+name: InventoryViewer
+version: '1.0'
+main: com.dbr.remag.inventoryViewer.InventoryViewer
+description: Plugin para visualizar o inventário dos jogadores online
+api-version: '1.20'
+commands:
+  openinventory:
+    description: Abre o menu de seleção de inventários dos jogadores
+    usage: /openinventory
+
