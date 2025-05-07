@@ -1,4 +1,5 @@
 🧰 InventoryViewer Plugin
+
 InventoryViewer é um plugin simples para servidores Minecraft (Spigot/Bukkit) que permite aos jogadores com permissão visualizar o inventário de outros jogadores online através de um menu interativo com cabeças personalizadas.
 
 ✨ Funcionalidades
